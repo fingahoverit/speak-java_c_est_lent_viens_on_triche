@@ -1,4 +1,4 @@
-# Demo
+# Demo : Spring Native
 
 ## Pré-requis
 
@@ -7,9 +7,7 @@
 * maven
 * Demo sous windows
 
-## CDS
-
-### Lignes de commandes 
+## Lignes de commandes 
 
 * Build de l'application native
 

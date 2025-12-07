@@ -1,4 +1,4 @@
-# Demo : CDS
+# Demo : Quarkus Native
 
 ## Pré-requis
 
